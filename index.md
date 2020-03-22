@@ -7,6 +7,9 @@
 layout: default
 ---
 
+## What we're doing
+
+We're in the process of building an organization that will change the we recycle polymers.  We'll be able to share details in the future, but for now please read through this information we've put together.
 
 ## What makes plastics so special?
 
